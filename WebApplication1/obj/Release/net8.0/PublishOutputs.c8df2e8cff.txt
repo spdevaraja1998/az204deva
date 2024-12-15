@@ -1,0 +1,7 @@
+D:\AZ204_Learning\WebApplication1\bin\publish\WebApplication1.exe
+D:\AZ204_Learning\WebApplication1\bin\publish\appsettings.Development.json
+D:\AZ204_Learning\WebApplication1\bin\publish\appsettings.json
+D:\AZ204_Learning\WebApplication1\bin\publish\WebApplication1.dll
+D:\AZ204_Learning\WebApplication1\bin\publish\WebApplication1.deps.json
+D:\AZ204_Learning\WebApplication1\bin\publish\WebApplication1.runtimeconfig.json
+D:\AZ204_Learning\WebApplication1\bin\publish\WebApplication1.pdb
